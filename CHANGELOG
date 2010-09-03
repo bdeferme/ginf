@@ -1,0 +1,180 @@
+   40 Bert	2010-02-08 {0.1.6}
+      tarbal option added
+
+   39 Bert Deferme	2009-06-29
+      renamed ginf to ginf.sh
+
+   38 Bert Deferme	2009-06-29
+      ..
+
+   37 Bert Deferme	2009-06-23
+      verbosyness
+
+   36 Bert Deferme	2009-06-22
+      Implemented Options
+
+   35 Bert Deferme	2009-06-22
+      Testing with getopts
+
+   34 Bert Deferme	2009-04-24
+      TODO
+
+   33 Bert Deferme	2009-04-24
+      m CHANGELOG
+
+   32 Bert Deferme	2009-04-24 {0.1.0} [merge]
+      directory check + tools check + cleanup
+
+         31.1.5 Bert Deferme	2009-04-24
+                distro specific toolchecks
+
+         31.1.4 Bert Deferme	2009-04-24
+                output dir check
+
+         31.1.3 Bert Deferme	2009-04-24
+                output dir check
+
+         31.1.2 Bert Deferme	2009-04-24
+                sources fix + fdisk fix + tools checking
+
+         31.1.1 Bert Deferme	2009-04-24
+                tools list + specific tools
+
+   31 Bert Deferme	2009-04-24
+      yum repos / apt sources
+
+   30 Bert Deferme	2009-04-24
+      ntpq -p
+
+   29 Bert Deferme	2009-04-24
+      sudoers / crontabs
+
+   28 Bert Deferme	2009-04-24
+      sshd_config / sudoers
+
+   27 Bert Deferme	2009-04-24
+      lspci / lsusb
+
+   26 Bert Deferme	2009-04-24
+      getent passwd/group/shadow
+
+   25 Bert Deferme	2009-04-24
+      lsb_release
+
+   24 Bert Deferme	2009-04-24 [merge]
+      categories
+
+         23.1.1 Bert Deferme	2009-04-24
+                finished categories
+
+   23 Bert Deferme	2009-04-15 {0.0.3-beta}
+      CHANGELOG
+
+   22 Bert Deferme	2009-04-09 [merge]
+      categories: network + proc
+
+         21.1.1 Bert Deferme	2009-04-09
+                network + proc
+
+   21 Bert Deferme	2009-04-09
+      Added TODO: sources,repos,categories
+
+   20 Bert Deferme	2009-04-09
+      Added TODO: cron + ntp
+
+   19 Bert Deferme	2009-04-09
+      Added TODO: sudoers
+
+   18 Bert Deferme	2009-04-09
+      Added TODO: passwd, group, shadow
+
+   17 Bert Deferme	2009-04-09
+      Added TODO: lsusb
+
+   16 Bert Deferme	2009-04-09
+      Added TODO file
+
+   15 Bert Deferme	2009-04-09 {0.0.2-beta}
+      Additions: free, installed packages, iptables, netstat, uname, fdisk, blkid
+
+   14 Bert Deferme	2009-04-09
+      mario : bert ps -aux en ps -ef geven meer info
+
+   13 Bert Deferme	2009-04-09
+      mario : cat /proc/meminfo, modules, partitions,devices,dmstat,interrupts,loadavg
+
+   12 Bert Deferme	2009-04-09
+      Added running processes by 'popular' demand :-)
+
+   11 Bert Deferme	2009-04-09 {0.0.1-beta}
+      Check for root
+
+   10 Bert Deferme	2009-04-09 [merge]
+      DistributionDependant Gathering
+
+          9.1.2 Bert Deferme	2009-04-09
+                network config
+
+          9.1.1 Bert Deferme	2009-04-09
+                enabled services
+
+    9 Bert Deferme	2009-04-09
+      BugFix
+
+    8 Bert Deferme	2009-04-09
+      cleanup
+
+    7 Bert Deferme	2009-04-09 {0.0.1-alpha2}
+      Will be released GPL3
+
+    6 Bert Deferme	2009-04-09
+      Changed output dir to <hostname>-config
+
+    5 Bert Deferme	2009-04-09 {0.0.1-alpha} [merge]
+      DistributionIndependant Basic Functions
+
+          4.1.5 Bert Deferme	2009-04-09
+                vgdisplay -vv
+
+          4.1.4 Bert Deferme	2009-04-09
+                mount, route, resolv, sysctl
+
+          4.1.3 Bert Deferme	2009-04-09
+                ifconfig -a, lsmod, motd
+
+          4.1.2 Bert Deferme	2009-04-09
+                fstab, hostname, hosts
+
+          4.1.1 Bert Deferme	2009-04-09
+                df -h
+
+    4 Bert Deferme	2009-04-08 [merge]
+      DistributionIndependant Gathering (alpha)
+
+          3.1.4 Bert Deferme	2009-04-08
+                Echo Actions
+
+          3.1.3 Bert Deferme	2009-04-08
+                create output dir
+
+          3.1.2 Bert Deferme	2009-04-08
+                needed feature: output dir
+
+          3.1.1 Bert Deferme	2009-04-08
+                cpuinfo
+
+    3 Bert Deferme	2009-04-08 [merge]
+      Added distro discovery
+
+          2.1.2 Bert Deferme	2009-04-08
+                Changed DIST string to Redhat (was Red Hat)
+
+          2.1.1 Bert Deferme	2009-04-08
+                Distribution discovery for Redhat, Centos, Debian, Ubuntu
+
+    2 Bert Deferme	2009-04-08
+      Created ginf source
+
+    1 Bert Deferme	2009-04-08
+      init
+
